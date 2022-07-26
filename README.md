@@ -26,7 +26,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Assignment
 
-![Andrew Choi's Password Generator website](/PW%20screenshot.png "screenshot of password generator website")
+![Andrew Choi's Password Generator website](Assets/images/PW_screenshot.png "screenshot of password generator website")
 
 I made a website that allows users to create a password with multiple types of categories.
 Here are some of the things that I tried to implement:
